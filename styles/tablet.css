@@ -1,0 +1,21 @@
+.cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 75rem;
+    margin: 0 auto;
+}
+
+.plans-slider {
+    justify-content: center;
+}
+
+.tables-container {
+    max-width: 700px;
+    margin: 0 auto;
+    overflow-x: hidden;
+    justify-content: space-around;
+}
+
+.plans-slider {
+    overflow-x: hidden;
+}
